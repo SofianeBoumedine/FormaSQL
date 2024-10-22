@@ -56,6 +56,7 @@ cd /path/to/your/backend
 Utilise la commande suivante pour démarrer le serveur Node.js :
 
 ```bash
+npm i
 node server.js
 ```
 
