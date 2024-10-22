@@ -81,6 +81,7 @@ cd /path/to/your/frontend
 Lance le serveur de développement Vite.js avec la commande suivante :
 
 ```bash
+npm i
 npm run dev
 ```
 
