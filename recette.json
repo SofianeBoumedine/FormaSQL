@@ -1,0 +1,506 @@
+[
+    {
+        "nom": "Pain perdu",
+        "ingredients": "pain rassis, lait, œufs, sucre",
+        "instructions": "Trempez le pain dans le mélange de lait et d'œufs, puis faites dorer à la poêle avec du sucre.",
+        "difficulte": "facile",
+        "temps_preparation": 15
+    },
+    {
+        "nom": "Risotto aux champignons",
+        "ingredients": "riz arborio, champignons, bouillon, parmesan",
+        "instructions": "Faites revenir les champignons, ajoutez le riz et du bouillon jusqu'à cuisson complète, puis mélangez avec du parmesan.",
+        "difficulte": "moyen",
+        "temps_preparation": 40
+    },
+    {
+        "nom": "Gratin de courgettes",
+        "ingredients": "courgettes, crème, fromage râpé",
+        "instructions": "Coupez les courgettes en rondelles, disposez-les dans un plat, ajoutez la crème et le fromage râpé, puis faites gratiner.",
+        "difficulte": "facile",
+        "temps_preparation": 35
+    },
+    {
+        "nom": "Curry de légumes",
+        "ingredients": "légumes variés, lait de coco, curry",
+        "instructions": "Faites revenir les légumes, ajoutez du curry et du lait de coco, puis laissez mijoter.",
+        "difficulte": "moyen",
+        "temps_preparation": 40
+    },
+    {
+        "nom": "Poulet au miel",
+        "ingredients": "poulet, miel, sauce soja",
+        "instructions": "Faites revenir le poulet, ajoutez le miel et la sauce soja, et laissez caraméliser.",
+        "difficulte": "moyen",
+        "temps_preparation": 30
+    },
+    {
+        "nom": "Salade de quinoa",
+        "ingredients": "quinoa, tomates, concombres, avocat",
+        "instructions": "Faites cuire le quinoa, ajoutez les légumes coupés en dés et mélangez.",
+        "difficulte": "facile",
+        "temps_preparation": 20
+    },
+    {
+        "nom": "Frites de patates douces",
+        "ingredients": "patates douces, huile d'olive, épices",
+        "instructions": "Coupez les patates douces en bâtonnets, badigeonnez-les d'huile et d'épices, et faites cuire au four.",
+        "difficulte": "facile",
+        "temps_preparation": 30
+    },
+    {
+        "nom": "Gaspacho",
+        "ingredients": "tomates, concombres, poivrons, ail",
+        "instructions": "Mixez les légumes avec de l'ail et du vinaigre, laissez refroidir et servez frais.",
+        "difficulte": "facile",
+        "temps_preparation": 15
+    },
+    {
+        "nom": "Poulet rôti",
+        "ingredients": "poulet entier, herbes de Provence, ail",
+        "instructions": "Assaisonnez le poulet avec des herbes et de l'ail, puis faites-le cuire au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 90
+    },
+    {
+        "nom": "Cake aux olives",
+        "ingredients": "farine, œufs, lait, olives",
+        "instructions": "Mélangez les ingrédients, ajoutez les olives, versez dans un moule et faites cuire au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 45
+    },
+    {
+        "nom": "Omelette aux fines herbes",
+        "ingredients": "œufs, persil, ciboulette",
+        "instructions": "Battez les œufs, ajoutez les herbes hachées et faites cuire l'omelette à la poêle.",
+        "difficulte": "facile",
+        "temps_preparation": 10
+    },
+    {
+        "nom": "Moules marinières",
+        "ingredients": "moules, vin blanc, ail, persil",
+        "instructions": "Faites cuire les moules avec du vin blanc, de l'ail et du persil.",
+        "difficulte": "moyen",
+        "temps_preparation": 20
+    },
+    {
+        "nom": "Tarte aux fraises",
+        "ingredients": "pâte sablée, fraises, crème pâtissière",
+        "instructions": "Garnissez la pâte cuite de crème pâtissière et disposez les fraises dessus.",
+        "difficulte": "moyen",
+        "temps_preparation": 50
+    },
+    {
+        "nom": "Ragoût de bœuf",
+        "ingredients": "bœuf, pommes de terre, carottes, oignons",
+        "instructions": "Faites mijoter le bœuf avec les légumes dans un bouillon pendant plusieurs heures.",
+        "difficulte": "difficile",
+        "temps_preparation": 180
+    },
+    {
+        "nom": "Spaghetti aux fruits de mer",
+        "ingredients": "spaghetti, fruits de mer, ail, persil",
+        "instructions": "Faites cuire les fruits de mer avec de l'ail et du persil, puis mélangez avec les spaghetti cuits.",
+        "difficulte": "moyen",
+        "temps_preparation": 30
+    },
+    {
+        "nom": "Tarte tatin",
+        "ingredients": "pommes, pâte feuilletée, sucre, beurre",
+        "instructions": "Caramélisez les pommes, recouvrez-les de pâte et faites cuire au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 60
+    },
+    {
+        "nom": "Poulet au curry",
+        "ingredients": "poulet, lait de coco, curry",
+        "instructions": "Faites revenir le poulet, ajoutez le curry et le lait de coco, puis laissez mijoter.",
+        "difficulte": "moyen",
+        "temps_preparation": 40
+    },
+    {
+        "nom": "Pizza quatre fromages",
+        "ingredients": "pâte à pizza, mozzarella, chèvre, bleu, parmesan",
+        "instructions": "Étalez la pâte, ajoutez les fromages et faites cuire au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 25
+    },
+    {
+        "nom": "Brochettes de poulet",
+        "ingredients": "poulet, poivrons, oignons, sauce soja",
+        "instructions": "Enfilez les morceaux de poulet et les légumes sur des brochettes, badigeonnez de sauce soja et faites griller.",
+        "difficulte": "facile",
+        "temps_preparation": 30
+    },
+    {
+        "nom": "Soupe de potiron",
+        "ingredients": "potiron, pommes de terre, crème",
+        "instructions": "Faites cuire le potiron et les pommes de terre, mixez le tout et ajoutez la crème.",
+        "difficulte": "facile",
+        "temps_preparation": 40
+    },
+    {
+        "nom": "Gratin de pâtes",
+        "ingredients": "pâtes, crème, fromage râpé",
+        "instructions": "Faites cuire les pâtes, mélangez-les avec la crème et le fromage, puis faites gratiner au four.",
+        "difficulte": "facile",
+        "temps_preparation": 30
+    },
+    {
+        "nom": "Couscous aux légumes",
+        "ingredients": "semoule, carottes, courgettes, pois chiches",
+        "instructions": "Faites cuire les légumes, servez avec la semoule et les pois chiches.",
+        "difficulte": "moyen",
+        "temps_preparation": 90
+    },
+    {
+        "nom": "Bœuf Stroganoff",
+        "ingredients": "bœuf, champignons, crème, oignons",
+        "instructions": "Faites revenir le bœuf avec les champignons et les oignons, ajoutez la crème et laissez mijoter.",
+        "difficulte": "moyen",
+        "temps_preparation": 50
+    },
+    {
+        "nom": "Tarte au citron meringuée",
+        "ingredients": "pâte sablée, citrons, œufs, sucre, meringue",
+        "instructions": "Garnissez la pâte avec une crème au citron, ajoutez la meringue et faites dorer au four.",
+        "difficulte": "difficile",
+        "temps_preparation": 70
+    },
+    {
+        "nom": "Taboulé aux légumes",
+        "ingredients": "semoule, tomates, concombres, menthe",
+        "instructions": "Faites gonfler la semoule, ajoutez les légumes coupés et la menthe, puis arrosez de jus de citron.",
+        "difficulte": "facile",
+        "temps_preparation": 20
+    },
+    {
+        "nom": "Chili con carne",
+        "ingredients": "viande hachée, haricots rouges, tomates, oignons",
+        "instructions": "Faites revenir la viande avec les oignons, ajoutez les haricots et les tomates, puis laissez mijoter.",
+        "difficulte": "moyen",
+        "temps_preparation": 45
+    },
+    {
+        "nom": "Riz pilaf",
+        "ingredients": "riz, oignons, bouillon",
+        "instructions": "Faites revenir le riz avec les oignons, ajoutez le bouillon et laissez cuire à feu doux.",
+        "difficulte": "facile",
+        "temps_preparation": 25
+    },
+    {
+        "nom": "Tarte aux poires amandine",
+        "ingredients": "pâte brisée, poires, poudre d'amandes, sucre",
+        "instructions": "Disposez les poires sur la pâte avec un mélange de poudre d'amandes et de sucre, puis faites cuire au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 50
+    },
+    {
+        "nom": "Blinis au saumon fumé",
+        "ingredients": "blinis, saumon fumé, crème fraîche, aneth",
+        "instructions": "Garnissez les blinis de saumon fumé et de crème fraîche, puis saupoudrez d'aneth.",
+        "difficulte": "facile",
+        "temps_preparation": 10
+    },
+    {
+        "nom": "Gâteau au yaourt",
+        "ingredients": "yaourt, farine, sucre, œufs",
+        "instructions": "Mélangez les ingrédients, versez dans un moule et faites cuire au four.",
+        "difficulte": "facile",
+        "temps_preparation": 40
+    },
+    {
+        "nom": "Salade niçoise",
+        "ingredients": "tomates, thon, œufs durs, haricots verts, olives",
+        "instructions": "Mélangez les ingrédients et servez avec une vinaigrette à l'huile d'olive.",
+        "difficulte": "facile",
+        "temps_preparation": 20
+    },
+    {
+        "nom": "Poivrons farcis",
+        "ingredients": "poivrons, riz, viande hachée, tomates",
+        "instructions": "Farcissez les poivrons avec un mélange de riz, viande hachée et tomates, puis faites cuire au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 60
+    },
+    {
+        "nom": "Ratatouille",
+        "ingredients": "courgettes, aubergines, tomates, poivrons",
+        "instructions": "Faites revenir les légumes, laissez mijoter et servez chaud.",
+        "difficulte": "moyen",
+        "temps_preparation": 50
+    },
+    {
+        "nom": "Clafoutis aux cerises",
+        "ingredients": "cerises, œufs, farine, lait, sucre",
+        "instructions": "Disposez les cerises dans un plat, versez le mélange œufs-farine-lait-sucre, puis faites cuire au four.",
+        "difficulte": "facile",
+        "temps_preparation": 50
+    },
+    {
+        "nom": "Brioche maison",
+        "ingredients": "farine, levure, sucre, œufs, beurre",
+        "instructions": "Pétrissez les ingrédients, laissez lever la pâte, puis faites cuire au four.",
+        "difficulte": "difficile",
+        "temps_preparation": 180
+    },
+    {
+        "nom": "Blanquette de veau",
+        "ingredients": "veau, carottes, oignons, crème",
+        "instructions": "Faites mijoter le veau avec les légumes, ajoutez de la crème en fin de cuisson, et servez avec du riz.",
+        "difficulte": "difficile",
+        "temps_preparation": 150
+    },
+    {
+        "nom": "Tarte aux poireaux",
+        "ingredients": "poireaux, crème, pâte brisée",
+        "instructions": "Étalez une pâte, faites revenir des poireaux, et cuisez au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 45
+    },
+    {
+        "nom": "Pâtes au pesto",
+        "ingredients": "pâtes, pesto, parmesan",
+        "instructions": "Faites cuire les pâtes et mélangez-les avec du pesto et du parmesan.",
+        "difficulte": "facile",
+        "temps_preparation": 20
+    },
+    {
+        "nom": "Salade César",
+        "ingredients": "poulet, laitue, parmesan, croûtons, sauce César",
+        "instructions": "Mélangez la laitue, le poulet grillé, le parmesan et les croûtons. Ajoutez la sauce.",
+        "difficulte": "facile",
+        "temps_preparation": 20
+    },
+    {
+        "nom": "Gratin de pommes de terre",
+        "ingredients": "pommes de terre, crème, fromage",
+        "instructions": "Coupez les pommes de terre, disposez-les dans un plat, et ajoutez crème et fromage avant de cuire au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 60
+    },
+    {
+        "nom": "Soupe de légumes",
+        "ingredients": "carottes, poireaux, pommes de terre",
+        "instructions": "Faites cuire les légumes dans de l'eau, mixez et servez chaud.",
+        "difficulte": "facile",
+        "temps_preparation": 30
+    },
+    {
+        "nom": "Quiche Lorraine",
+        "ingredients": "pâte brisée, lardons, crème, œufs",
+        "instructions": "Disposez les lardons sur la pâte, mélangez crème et œufs, versez et cuisez au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 50
+    },
+    {
+        "nom": "Couscous",
+        "ingredients": "semoule, légumes, poulet",
+        "instructions": "Faites cuire les légumes et le poulet, servez avec de la semoule cuite.",
+        "difficulte": "moyen",
+        "temps_preparation": 90
+    },
+    {
+        "nom": "Riz au curry",
+        "ingredients": "riz, poulet, curry",
+        "instructions": "Faites revenir le poulet, ajoutez le curry et servez avec du riz.",
+        "difficulte": "facile",
+        "temps_preparation": 30
+    },
+    {
+        "nom": "Pizza Margherita",
+        "ingredients": "pâte à pizza, sauce tomate, mozzarella, basilic",
+        "instructions": "Étalez la pâte, ajoutez la sauce et la mozzarella, et faites cuire.",
+        "difficulte": "moyen",
+        "temps_preparation": 25
+    },
+    {
+        "nom": "Bœuf bourguignon",
+        "ingredients": "bœuf, vin rouge, carottes, oignons",
+        "instructions": "Faites mijoter le bœuf avec les légumes et du vin rouge pendant plusieurs heures.",
+        "difficulte": "difficile",
+        "temps_preparation": 180
+    },
+    {
+        "nom": "Omelette aux champignons",
+        "ingredients": "œufs, champignons, persil",
+        "instructions": "Faites revenir les champignons, ajoutez les œufs battus et cuisez.",
+        "difficulte": "facile",
+        "temps_preparation": 15
+    },
+    {
+        "nom": "Porridge à la banane",
+        "ingredients": "flocons d'avoine, lait, banane",
+        "instructions": "Faites chauffer les flocons d'avoine dans du lait, ajoutez une banane écrasée.",
+        "difficulte": "facile",
+        "temps_preparation": 10
+    },
+    {
+        "nom": "Gâteau au chocolat",
+        "ingredients": "chocolat, farine, œufs, beurre",
+        "instructions": "Faites fondre le chocolat avec le beurre, mélangez avec la farine et les œufs, et cuisez.",
+        "difficulte": "moyen",
+        "temps_preparation": 45
+    },
+    {
+        "nom": "Lasagnes",
+        "ingredients": "pâtes à lasagnes, sauce bolognaise, béchamel",
+        "instructions": "Montez des couches de pâtes, sauce et béchamel, et faites cuire au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 60
+    },
+    {
+        "nom": "Salade de fruits",
+        "ingredients": "pommes, bananes, oranges",
+        "instructions": "Coupez les fruits en morceaux et mélangez-les.",
+        "difficulte": "facile",
+        "temps_preparation": 10
+    },
+    {
+        "nom": "Ratatouille",
+        "ingredients": "courgettes, aubergines, tomates, poivrons",
+        "instructions": "Faites revenir les légumes séparément, puis mélangez-les pour mijoter.",
+        "difficulte": "moyen",
+        "temps_preparation": 60
+    },
+    {
+        "nom": "Pâtes à la carbonara",
+        "ingredients": "pâtes, lardons, œufs, parmesan",
+        "instructions": "Faites cuire les pâtes, mélangez avec les œufs battus, les lardons et le parmesan.",
+        "difficulte": "facile",
+        "temps_preparation": 25
+    },
+    {
+        "nom": "Poulet basquaise",
+        "ingredients": "poulet, poivrons, tomates, oignons",
+        "instructions": "Faites revenir le poulet, ajoutez les légumes et laissez mijoter.",
+        "difficulte": "moyen",
+        "temps_preparation": 60
+    },
+    {
+        "nom": "Crêpes sucrées",
+        "ingredients": "farine, œufs, lait, sucre",
+        "instructions": "Mélangez tous les ingrédients et faites cuire des crêpes fines.",
+        "difficulte": "facile",
+        "temps_preparation": 20
+    },
+    {
+        "nom": "Bouillabaisse",
+        "ingredients": "poissons, tomates, fenouil, ail",
+        "instructions": "Faites cuire les poissons avec les légumes et servez avec du pain.",
+        "difficulte": "difficile",
+        "temps_preparation": 120
+    },
+    {
+        "nom": "Tiramisu",
+        "ingredients": "mascarpone, café, biscuits, œufs",
+        "instructions": "Montez les couches de biscuits trempés dans le café et de crème mascarpone.",
+        "difficulte": "moyen",
+        "temps_preparation": 30
+    },
+    {
+        "nom": "Poisson en papillote",
+        "ingredients": "poisson, citron, herbes, légumes",
+        "instructions": "Enveloppez le poisson dans du papier avec du citron et des légumes, puis cuisez au four.",
+        "difficulte": "facile",
+        "temps_preparation": 25
+    },
+    {
+        "nom": "Gratin dauphinois",
+        "ingredients": "pommes de terre, crème, ail, fromage",
+        "instructions": "Disposez des tranches de pommes de terre dans un plat, ajoutez la crème et le fromage, puis cuisez au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 70
+    },
+    {
+        "nom": "Sushi maison",
+        "ingredients": "riz, poisson cru, algues, avocat",
+        "instructions": "Préparez le riz, disposez le poisson et l'avocat, puis roulez dans une feuille d'algue.",
+        "difficulte": "difficile",
+        "temps_preparation": 60
+    },
+    {
+        "nom": "Fajitas au poulet",
+        "ingredients": "poulet, tortillas, poivrons, oignons",
+        "instructions": "Faites revenir le poulet et les légumes, puis garnissez les tortillas.",
+        "difficulte": "moyen",
+        "temps_preparation": 30
+    },
+    {
+        "nom": "Salade grecque",
+        "ingredients": "tomates, concombres, oignons, feta, olives",
+        "instructions": "Mélangez tous les ingrédients et assaisonnez avec de l'huile d'olive.",
+        "difficulte": "facile",
+        "temps_preparation": 15
+    },
+    {
+        "nom": "Quinoa aux légumes",
+        "ingredients": "quinoa, carottes, courgettes, pois chiches",
+        "instructions": "Faites cuire le quinoa, ajoutez les légumes sautés et les pois chiches.",
+        "difficulte": "facile",
+        "temps_preparation": 25
+    },
+    {
+        "nom": "Crème brûlée",
+        "ingredients": "crème, jaunes d'œufs, sucre, vanille",
+        "instructions": "Faites cuire la crème au bain-marie, saupoudrez de sucre et caramélisez.",
+        "difficulte": "moyen",
+        "temps_preparation": 50
+    },
+    {
+        "nom": "Poulet tikka masala",
+        "ingredients": "poulet, yaourt, épices, tomates",
+        "instructions": "Faites mariner le poulet, puis cuisez-le avec les épices et les tomates.",
+        "difficulte": "moyen",
+        "temps_preparation": 45
+    },
+    {
+        "nom": "Galette complète",
+        "ingredients": "galettes de sarrasin, jambon, œufs, fromage",
+        "instructions": "Cuisez la galette, ajoutez jambon, œufs et fromage, et repliez les bords.",
+        "difficulte": "facile",
+        "temps_preparation": 15
+    },
+    {
+        "nom": "Boulettes de viande",
+        "ingredients": "viande hachée, oignons, ail, épices",
+        "instructions": "Formez des boulettes avec la viande et les épices, faites-les revenir dans une poêle.",
+        "difficulte": "facile",
+        "temps_preparation": 25
+    },
+    {
+        "nom": "Brochettes de légumes",
+        "ingredients": "courgettes, poivrons, champignons, huile d'olive",
+        "instructions": "Enfilez les légumes sur des brochettes, badigeonnez d'huile et faites griller.",
+        "difficulte": "facile",
+        "temps_preparation": 20
+    },
+    {
+        "nom": "Gâteau aux pommes",
+        "ingredients": "pommes, farine, sucre, œufs",
+        "instructions": "Mélangez les ingrédients, ajoutez les pommes coupées et faites cuire au four.",
+        "difficulte": "facile",
+        "temps_preparation": 45
+    },
+    {
+        "nom": "Riz cantonais",
+        "ingredients": "riz, petits pois, jambon, œufs, sauce soja",
+        "instructions": "Faites sauter le riz avec les petits pois, jambon et œufs brouillés, puis ajoutez la sauce soja.",
+        "difficulte": "moyen",
+        "temps_preparation": 30
+    },
+    {
+        "nom": "Tarte aux pommes",
+        "ingredients": "pommes, pâte brisée, sucre, cannelle",
+        "instructions": "Disposez les tranches de pommes sur la pâte, saupoudrez de sucre et de cannelle, puis cuisez au four.",
+        "difficulte": "moyen",
+        "temps_preparation": 50
+    },
+    {
+        "nom": "Taboulé",
+        "ingredients": "semoule, tomates, concombre, menthe, citron",
+        "instructions": "Faites gonfler la semoule, ajoutez les légumes coupés en dés et la menthe, puis arrosez de jus de citron.",
+        "difficulte": "facile",
+        "temps_preparation": 20
+    }
+]
